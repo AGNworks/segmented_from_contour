@@ -10,8 +10,8 @@ import pandas as pd
 
 model = load_model('redline_segm.h5', compile = False)
 
-dir = 'D:\SAJAT\\00_ML\TEST\humans_1_pre_test'
-dir_res = 'D:\SAJAT\\00_ML\TEST\model_results'
+dir = 'D:\SAJAT\\00_ML\TEST\humans_1_pre_test' #folder with input pictures
+dir_res = 'D:\SAJAT\\00_ML\TEST\model_results' #where to save results of the model
 
 #The base parameters for preparing the data
 white = (255,255,255)
