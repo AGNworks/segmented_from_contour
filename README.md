@@ -27,5 +27,5 @@ for i in range(len(images)):
 ```
 
 This is what we can get using this code:
-![deleted_bg]
+![deleted_bg](https://github.com/AGNworks/segmented_from_contour/blob/main/pictures/delete_bg.JPG)
 
